@@ -1,0 +1,44 @@
+@import url('http://fonts.googleapis.com/css?family=Poppins:regular,600|Rubik+Mono+One:regular');
+
+// Colours
+$primary: #15258d;
+$secondary: #f76b62;
+$tertiary: green;
+$black: #000;
+$white: #fff;
+
+// Backgrounds
+
+// Fonts
+$font-family-base: 'Poppins', sans-serif;
+$font-family-heading: 'Poppins', sans-serif;
+$font-weight-base: normal;
+$font-weight-heading: 600;
+$line-height-base: 1.45;
+$color-primary: $white;
+$color-secondary: $secondary;
+
+// Paths
+$fonts-path: '../assets/fonts';
+$images-path: '../assets/images';
+
+// Grid
+$gutter: 8;
+$container-width: rem-calc(1200);
+$container-gutter: rem-calc(24);
+
+// Type
+
+// size: mobile tablet desktop large highres
+// line-height: mobile tablet desktop large highres
+// Same number of values must be defined for each title i.e. t1
+$type-sizes: (
+	t1: (size: 22px, line-height: 24px),
+	t2: (size: 20px, line-height: 24px),
+	t3: (size: 18px, line-height: 24px),
+	t4: (size: 18px, line-height: 20px),
+	t5: (size: 24px, line-height: 26px)
+);
+
+// Media Query Ranges
+$breakpoints: (sm: 37.5em, md: 52.5em, lg: 64em, xlg: 80em);

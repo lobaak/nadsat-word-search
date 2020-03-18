@@ -1,0 +1,69 @@
+@function strip-unit($number) {
+  @if type-of($number) == 'number' and not unitless($number) {
+    @return $number / ($number * 0 + 1);
+  }
+  @return $number;
+}
+
+@function rem-calc($size) {
+  @return #{strip-unit($size) / 16}rem;
+}
+
+@mixin form-field {
+  @include type-set(t4);
+  background-color: $athens-gray;
+  border: none;
+  color: $black;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  height: rem-calc(60);
+  width: 100%;
+  transition: box-shadow 100ms;
+  box-shadow: none;
+}
+
+@mixin min-width($size) {
+  @if map-has-key($breakpoints, $size) {
+    @media (min-width: (map-get($breakpoints, $size))) {
+      @content;
+    }
+  } @else {
+    @warn "Available breakpoints are: #{map-keys($breakpoints)}.";
+  }
+}
+
+@mixin font($font-size, $line-height) {
+  font-size: rem-calc($font-size);
+  line-height: $line-height / $font-size;
+}
+
+@mixin type-set($heading) {
+  @if $heading == '' {
+    @error "Missing argument for $heading";
+  }
+
+  @if map-has-key($type-sizes, $heading) == false {
+    @error "Missing heading #{$heading}";
+  }
+
+  $size: map-get(map-get($type-sizes, $heading), size);
+  $line-height: map-get(map-get($type-sizes, $heading), line-height);
+
+  // Set mobile sizes first
+  @include font(nth($size, 1), nth($line-height, 1));
+
+  @each $bp in $breakpoints {
+    $i: index($breakpoints, $bp) + 1;
+    @if $i <= length($size) {
+      @include min-width(nth($bp, 1)) {
+        @include font(nth($size, $i), nth($line-height, $i));
+      }
+    }
+  }
+}
+
+@mixin form-field-focus {
+  outline: none;
+  border-color: $black;
+  box-shadow: 0 0 0 4px $sun;
+}
