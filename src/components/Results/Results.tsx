@@ -9,18 +9,18 @@ interface Props {
 }
 
 const Results: React.FC<Props> = ({ results }) => {
-  return (
+  return !results.length ? null : (
     <Table celled>
-      {/* <Table.Header>
+      <Table.Header>
         <Table.Row>
           <Table.HeaderCell>Nadsat</Table.HeaderCell>
           <Table.HeaderCell>English</Table.HeaderCell>
           <Table.HeaderCell>Origin</Table.HeaderCell>
         </Table.Row>
-      </Table.Header> */}
+      </Table.Header>
       <Table.Body>
-        {results.map(({ id, english, nadsat, origin }: Entry) => (
-          <Table.Row key={id}>
+        {results.map(({ english, nadsat, origin }: Entry) => (
+          <Table.Row key={english + nadsat}>
             <Table.Cell>{english}</Table.Cell>
             <Table.Cell>{nadsat}</Table.Cell>
             <Table.Cell>{origin}</Table.Cell>

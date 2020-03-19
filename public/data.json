@@ -1,20 +1,1519 @@
-[
-  {
-    "id": 1,
-    "english": "See",
-    "nadsat": "Viddy",
-    "origin": "Russian"
-  },
-  {
-    "id": 2,
-    "english": "Rot",
-    "nadsat": "Mouth",
-    "origin": ""
-  },
-  {
-    "id": 3,
-    "english": "Rookers",
-    "nadsat": "Fists",
-    "origin": ""
-  }
-]
+{
+  "entries": [
+    {
+      "english": "appy polly loggies",
+      "nadsat": "apologies",
+      "origin": "Highly exaggerated pronunciation of apologies – Burgess's homage to James Joyce's ALP"
+    },
+    {
+      "english": "auto",
+      "nadsat": "car",
+      "origin": "short for automobile; mirrors the usage in Russian: see авто (avto)"
+    },
+    {
+      "english": "baboochka",
+      "nadsat": "old woman",
+      "origin": "бабушка (babuška, literally \"grandmother\")"
+    },
+    {
+      "english": "baddiwad",
+      "nadsat": "bad",
+      "origin": "Young child talk"
+    },
+    {
+      "english": "banda",
+      "nadsat": "band",
+      "origin": "банда (banda, \"gang\")"
+    },
+    {
+      "english": "barry place",
+      "nadsat": "prison",
+      "origin": "From bars on windows in Prisons."
+    },
+    {
+      "english": "bedways",
+      "nadsat": "to bed",
+      "origin": ""
+    },
+    {
+      "english": "bezoomny",
+      "nadsat": "mad, crazy",
+      "origin": "безумный (bezumnyj)"
+    },
+    {
+      "english": "biblio",
+      "nadsat": "library",
+      "origin": "библиотека (biblioteka)"
+    },
+    {
+      "english": "bitva",
+      "nadsat": "battle",
+      "origin": "битва (bitva)"
+    },
+    {
+      "english": "blub",
+      "nadsat": "weep, cry",
+      "origin": "English slang. Not exclusively nadsat."
+    },
+    {
+      "english": "Bog",
+      "nadsat": "God",
+      "origin": "бог (bog) (pronounced /box/)"
+    },
+    {
+      "english": "bogman",
+      "nadsat": "godman",
+      "origin": "see section G below"
+    },
+    {
+      "english": "boomaboom",
+      "nadsat": "thunder",
+      "origin": "onomatopoeia"
+    },
+    {
+      "english": "bolnoy",
+      "nadsat": "sick",
+      "origin": "больной (bolʹnoj)"
+    },
+    {
+      "english": "bolshy",
+      "nadsat": "big, great",
+      "origin": "большой (bolʹšoj) Cf bolshie"
+    },
+    {
+      "english": "boohoo, boohoohoo",
+      "nadsat": "to cry",
+      "origin": "from the sound that one makes while crying. Not exclusively nadsat."
+    },
+    {
+      "english": "boorjoyce",
+      "nadsat": "bourgeois",
+      "origin": "Burgess' pronunciation of \"bourgeois\". Taken from the 1973 Caedmon audio LP, Anthony Burgess Reads A Clockwork Orange, and present only in Andrew Biswell's Restored Text edition of A Clockwork Orange."
+    },
+    {
+      "english": "bootick",
+      "nadsat": "boutique",
+      "origin": ""
+    },
+    {
+      "english": "brat, bratty",
+      "nadsat": "brother",
+      "origin": "брат (brat)"
+    },
+    {
+      "english": "bratchny",
+      "nadsat": "bastard",
+      "origin": "брачный (bračnyj, \"matrimonial\"), — likely a shortened внебрачный (vnebračnyj, \"out-of-wedlock\"), even though stripping it of the prefix inverts the meaning"
+    },
+    {
+      "english": "britva",
+      "nadsat": "razor",
+      "origin": "бритва (britva)"
+    },
+    {
+      "english": "brooko",
+      "nadsat": "belly",
+      "origin": "брюхо (brjuxo)"
+    },
+    {
+      "english": "brosay, brosat",
+      "nadsat": "to throw",
+      "origin": "бросай (brosaj, \"throw!\", imperative), бросать (brosatʹ, \"to throw\")"
+    },
+    {
+      "english": "police officers, security guards",
+      "nadsat": "bruiseboys",
+      "origin": ""
+    },
+    {
+      "english": "bugatties",
+      "nadsat": "riches",
+      "origin": "богатый (bogatyj)."
+    },
+    {
+      "english": "bugatty",
+      "nadsat": "rich",
+      "origin": "богатый (bogatyj)."
+    },
+    {
+      "english": "cables",
+      "nadsat": "blood vessels , tendons?",
+      "origin": ""
+    },
+    {
+      "english": "cal",
+      "nadsat": "crap",
+      "origin": "кал (kal, \"feces\"), sometimes used as an invective as well"
+    },
+    {
+      "english": "cancer",
+      "nadsat": "cigarette",
+      "origin": "Short for English slang cancer stick from the disease with which heavy smoking is most commonly associated"
+    },
+    {
+      "english": "cantora",
+      "nadsat": "office",
+      "origin": "контора (kontora)"
+    },
+    {
+      "english": "carman",
+      "nadsat": "pocket",
+      "origin": "карман (karman)"
+    },
+    {
+      "english": "chai",
+      "nadsat": "tea",
+      "origin": "чай (čaj), not exclusively nadsat."
+    },
+    {
+      "english": "charles, charlie",
+      "nadsat": "chaplain",
+      "origin": "a play on Charlie Chaplin. Not exclusively nadsat."
+    },
+    {
+      "english": "chasha",
+      "nadsat": "cup",
+      "origin": "чашка (čaška); чаша (čaša, \"large bowl\")"
+    },
+    {
+      "english": "chasso",
+      "nadsat": "guard",
+      "origin": "часовой (časovoj)"
+    },
+    {
+      "english": "cheena",
+      "nadsat": "woman",
+      "origin": "женщина (ženščina)"
+    },
+    {
+      "english": "cheest",
+      "nadsat": "to wash",
+      "origin": "чистить (čistitʹ, \"to clean\")"
+    },
+    {
+      "english": "chelloveck",
+      "nadsat": "person, man, fellow",
+      "origin": "человек (čelovek, \"person, man\")"
+    },
+    {
+      "english": "chepooka",
+      "nadsat": "nonsense",
+      "origin": "чепуха (čepuxa)"
+    },
+    {
+      "english": "choodessny",
+      "nadsat": "wonderful",
+      "origin": "чудесный (čudesnyj)"
+    },
+    {
+      "english": "chumble",
+      "nadsat": "to mumble",
+      "origin": "portmanteau \"chatter\" + \"mumble\""
+    },
+    {
+      "english": "cine",
+      "nadsat": "cinema, film",
+      "origin": "French slang ciné, Russian кино (kino)"
+    },
+    {
+      "english": "clockwork",
+      "nadsat": "mechanically responsive",
+      "origin": "The term \"A Clockwork Orange\" refers to a human who is mechanically responsive, as is the character of Alex in the story, after his series of trials and \"modifications\""
+    },
+    {
+      "english": "clop",
+      "nadsat": "to knock",
+      "origin": "хлопать (xlopatʹ, \"clap\"); German klopfen (\"to knock\")"
+    },
+    {
+      "english": "cluve",
+      "nadsat": "beak",
+      "origin": "клюв (kljuv)"
+    },
+    {
+      "english": "collocoll",
+      "nadsat": "bell",
+      "origin": "колокол (kolokol)"
+    },
+    {
+      "english": "crack",
+      "nadsat": "to break up, smash",
+      "origin": ""
+    },
+    {
+      "english": "crark",
+      "nadsat": "to howl",
+      "origin": "portmanteau \"crow\" + \"bark\""
+    },
+    {
+      "english": "crast",
+      "nadsat": "steal, rob, robbery",
+      "origin": "красть (krastʹ, \"to steal\")"
+    },
+    {
+      "english": "creech",
+      "nadsat": "to shout, scream",
+      "origin": "кричать (kričatʹ)"
+    },
+    {
+      "english": "cutter",
+      "nadsat": "money",
+      "origin": "From Cockney rhyming slang derived from bread-and-butter"
+    },
+    {
+      "english": "dama",
+      "nadsat": "lady",
+      "origin": "дама (dama); cf Dame"
+    },
+    {
+      "english": "decrep",
+      "nadsat": "elder",
+      "origin": "short for \"decrepit\""
+    },
+    {
+      "english": "ded, dedoochka",
+      "nadsat": "old man",
+      "origin": "дед (ded), дедушка (deduška, \"grandfather\"), coll. \"old man\""
+    },
+    {
+      "english": "deng",
+      "nadsat": "money",
+      "origin": "деньги (denʹgi)"
+    },
+    {
+      "english": "devotchka",
+      "nadsat": "young woman",
+      "origin": "девочка (devočka, \"girl\")"
+    },
+    {
+      "english": "dobby",
+      "nadsat": "good",
+      "origin": "добрый (dobryj, \"kind, good\")"
+    },
+    {
+      "english": "dook",
+      "nadsat": "trace, ghost",
+      "origin": "дух (dux, literally \"spirit\"); Romani dook (\"magic\")"
+    },
+    {
+      "english": "domy",
+      "nadsat": "house",
+      "origin": "дом (dom)"
+    },
+    {
+      "english": "dorogoy",
+      "nadsat": "dear, valuable, expensive",
+      "origin": "дорогой (dorogoj)"
+    },
+    {
+      "english": "dratsing",
+      "nadsat": "fighting",
+      "origin": "драться (dratʹsja, \"to fight\")"
+    },
+    {
+      "english": "drencrom",
+      "nadsat": "drug",
+      "origin": "possibly \"Adrenochrome\""
+    },
+    {
+      "english": "droog",
+      "nadsat": "friend",
+      "origin": "друг (drug, \"friend\")"
+    },
+    {
+      "english": "droogie",
+      "nadsat": "friendly",
+      "origin": "дружелюбно (druželjubno, \"friendly\")"
+    },
+    {
+      "english": "dung",
+      "nadsat": "to defecate",
+      "origin": ""
+    },
+    {
+      "english": "dva",
+      "nadsat": "two",
+      "origin": "два (dva)"
+    },
+    {
+      "english": "eegra",
+      "nadsat": "game",
+      "origin": "игра (igra)"
+    },
+    {
+      "english": "eemya",
+      "nadsat": "name",
+      "origin": "имя (imja)"
+    },
+    {
+      "english": "eggiweg",
+      "nadsat": "egg",
+      "origin": "Juvenile mutation of \"egg\""
+    },
+    {
+      "english": "em",
+      "nadsat": "mother",
+      "origin": "Derived from the first letter of \"mother\"."
+    },
+    {
+      "english": "espresso rapido",
+      "nadsat": "train",
+      "origin": ""
+    },
+    {
+      "english": "eunuch jelly",
+      "nadsat": "gutless coward",
+      "origin": ""
+    },
+    {
+      "english": "fag",
+      "nadsat": "tire, exhaust",
+      "origin": "English slang. Not exclusively nadsat."
+    },
+    {
+      "english": "faggy/fagged",
+      "nadsat": "tired, exhausted",
+      "origin": ""
+    },
+    {
+      "english": "fashed",
+      "nadsat": "bothered, annoyed, tired",
+      "origin": "Scots fash"
+    },
+    {
+      "english": "filly",
+      "nadsat": "to play or fool around with",
+      "origin": "dim. of \"fiddle\", cf filly (horse)"
+    },
+    {
+      "english": "filmdrome",
+      "nadsat": "cinema",
+      "origin": "From δρόμος (drómos, \"course\"), meaning \"place for doing films\"."
+    },
+    {
+      "english": "firegold",
+      "nadsat": "strong drink",
+      "origin": "? \"firewater\""
+    },
+    {
+      "english": "fist",
+      "nadsat": "to punch",
+      "origin": "from Engl. fist, Cf удар кулаком, БИТЬ кулаком"
+    },
+    {
+      "english": "flatblock",
+      "nadsat": "block of flats",
+      "origin": ""
+    },
+    {
+      "english": "flip",
+      "nadsat": "wild",
+      "origin": "from Eng. slang to flip out (\"to go mad/crazy\")"
+    },
+    {
+      "english": "forella",
+      "nadsat": "trout",
+      "origin": "форель (forelʹ), from German Forelle"
+    },
+    {
+      "english": "fuzzy",
+      "nadsat": "scratchy",
+      "origin": ""
+    },
+    {
+      "english": "gazetta",
+      "nadsat": "newspaper",
+      "origin": "газета (gazeta), cf gazette"
+    },
+    {
+      "english": "glazz, glazzies, glazzballs",
+      "nadsat": "eye, eyes (also used to refer to nipples)",
+      "origin": "глаз (glaz)"
+    },
+    {
+      "english": "gloopy",
+      "nadsat": "stupid",
+      "origin": "глупый (glupyj)"
+    },
+    {
+      "english": "glory",
+      "nadsat": "hair",
+      "origin": ""
+    },
+    {
+      "english": "godman",
+      "nadsat": "priest, chaplain",
+      "origin": ""
+    },
+    {
+      "english": "golly",
+      "nadsat": "unit of money",
+      "origin": "rhyming slang, \"lolly,\" or \"polly\""
+    },
+    {
+      "english": "goloss",
+      "nadsat": "voice",
+      "origin": "голос (golos)"
+    },
+    {
+      "english": "goober",
+      "nadsat": "lip",
+      "origin": "губа (guba)"
+    },
+    {
+      "english": "gooly",
+      "nadsat": "to walk",
+      "origin": "гулять (guljatʹ)"
+    },
+    {
+      "english": "gorlo",
+      "nadsat": "throat",
+      "origin": "горло (gorlo)"
+    },
+    {
+      "english": "govoreet",
+      "nadsat": "speak",
+      "origin": "говорить (govoritʹ)"
+    },
+    {
+      "english": "grahzny",
+      "nadsat": "dirty",
+      "origin": "грязный (grjaznyj)"
+    },
+    {
+      "english": "grazzy",
+      "nadsat": "soiled",
+      "origin": "грязь (grjazʹ, \"dirt\"), грязный (grjaznyj, \"dirty\")"
+    },
+    {
+      "english": "gromky",
+      "nadsat": "loud",
+      "origin": "громкий (gromkij)"
+    },
+    {
+      "english": "groody",
+      "nadsat": "breast",
+      "origin": "грудь (grudʹ, \"breast\"), груди pl (grudi, \"breasts\")"
+    },
+    {
+      "english": "gruppa",
+      "nadsat": "group",
+      "origin": "группа (gruppa)"
+    },
+    {
+      "english": "guff, guffaw",
+      "nadsat": "laugh",
+      "origin": "guffaw"
+    },
+    {
+      "english": "gulliver",
+      "nadsat": "head",
+      "origin": "голова (golova)"
+    },
+    {
+      "english": "guttiwuts",
+      "nadsat": "guts",
+      "origin": "Children’s speech"
+    },
+    {
+      "english": "hen-korm",
+      "nadsat": "chickenfeed",
+      "origin": "Engl. hen + корм (korm, noun, literally \"feed\"), but cf corn"
+    },
+    {
+      "english": "horn",
+      "nadsat": "to cry out",
+      "origin": ""
+    },
+    {
+      "english": "horrorshow",
+      "nadsat": "good, well, wonderful, excellent",
+      "origin": "хорошо (xorošo, \"well, good\")"
+    },
+    {
+      "english": "hound-and-horny",
+      "nadsat": "corny",
+      "origin": "Rhyming slang"
+    },
+    {
+      "english": "in-out in-out, the old in and out",
+      "nadsat": "sexual intercourse",
+      "origin": ""
+    },
+    {
+      "english": "interessovat",
+      "nadsat": "to interest",
+      "origin": "интересовать (interesovatʹ)"
+    },
+    {
+      "english": "itty",
+      "nadsat": "to go",
+      "origin": "идти (idti, \"to go\")"
+    },
+    {
+      "english": "jammiwam",
+      "nadsat": "jam",
+      "origin": "Juvenile mutation of the word \"jam\""
+    },
+    {
+      "english": "jeezny",
+      "nadsat": "life",
+      "origin": "жизнь (žiznʹ)"
+    },
+    {
+      "english": "kartoffel",
+      "nadsat": "potatoes",
+      "origin": "картофель (kartofelʹ), which itself is derived from German Kartoffel (\"potato\")"
+    },
+    {
+      "english": "kashl",
+      "nadsat": "cough",
+      "origin": "кашель (kašelʹ)"
+    },
+    {
+      "english": "keeshkas",
+      "nadsat": "guts",
+      "origin": "кишка (kiška, \"gut\")"
+    },
+    {
+      "english": "kisa",
+      "nadsat": "girl",
+      "origin": "киса (kisa, literally \"kitty\")"
+    },
+    {
+      "english": "kleb",
+      "nadsat": "bread",
+      "origin": "хлеб (xleb)"
+    },
+    {
+      "english": "klootch",
+      "nadsat": "key",
+      "origin": "ключ (ključ)"
+    },
+    {
+      "english": "knives",
+      "nadsat": "drugs",
+      "origin": ""
+    },
+    {
+      "english": "knopka",
+      "nadsat": "button",
+      "origin": "кнопка (knopka)"
+    },
+    {
+      "english": "knopkavat",
+      "nadsat": "buttoning",
+      "origin": "кнопка (knopka)"
+    },
+    {
+      "english": "kopat",
+      "nadsat": "to 'dig' (appreciate)",
+      "origin": "копать (kopatʹ, literally \"to dig\")"
+    },
+    {
+      "english": "korova",
+      "nadsat": "cow",
+      "origin": "корова (korova)"
+    },
+    {
+      "english": "koshka, kot",
+      "nadsat": "cat, tomcat",
+      "origin": "кошка (koška), кот (kot)"
+    },
+    {
+      "english": "koshtoom",
+      "nadsat": "clothing",
+      "origin": "костюм (kostjum, \"suit\")"
+    },
+    {
+      "english": "krovvy",
+      "nadsat": "blood",
+      "origin": "кровь (krovʹ)"
+    },
+    {
+      "english": "kupet",
+      "nadsat": "to buy",
+      "origin": "купить (kupitʹ)"
+    },
+    {
+      "english": "lapa",
+      "nadsat": "paw",
+      "origin": "лапа (lapa)"
+    },
+    {
+      "english": "lewdies",
+      "nadsat": "people",
+      "origin": "люди (ljudi)"
+    },
+    {
+      "english": "lighter",
+      "nadsat": "old woman, crone",
+      "origin": "Unknown, possibly \"blighter\" or \"fire lighter\""
+    },
+    {
+      "english": "litso",
+      "nadsat": "face",
+      "origin": "лицо (lico)"
+    },
+    {
+      "english": "lomtick",
+      "nadsat": "piece, bit",
+      "origin": "ломтик (lomtik, \"slice\")"
+    },
+    {
+      "english": "luna",
+      "nadsat": "moon",
+      "origin": "луна (luna)"
+    },
+    {
+      "english": "loveted",
+      "nadsat": "caught",
+      "origin": "ловить (lovitʹ, \"to catch\")"
+    },
+    {
+      "english": "lubbilubbing",
+      "nadsat": "making love",
+      "origin": "любить (ljubitʹ, \"to love\"), люблю (ljublju, \"(I) love\")"
+    },
+    {
+      "english": "luscious glory",
+      "nadsat": "hair",
+      "origin": "rhyming slang, possibly \"upper storey\" (or, more likely, a reference to 'crowning glory')"
+    },
+    {
+      "english": "malchick",
+      "nadsat": "boy",
+      "origin": "мальчик (malʹčik)"
+    },
+    {
+      "english": "malenky",
+      "nadsat": "little, tiny",
+      "origin": "маленький (malenʹkij)"
+    },
+    {
+      "english": "maskie",
+      "nadsat": "mask",
+      "origin": "маска (maska)"
+    },
+    {
+      "english": "maslo",
+      "nadsat": "butter",
+      "origin": "масло (maslo)"
+    },
+    {
+      "english": "merzky",
+      "nadsat": "filthy",
+      "origin": "мерзкий (merzkij, literally \"vile, disgusting\")"
+    },
+    {
+      "english": "messel",
+      "nadsat": "thought, fancy",
+      "origin": "мысль (myslʹ)"
+    },
+    {
+      "english": "mesto",
+      "nadsat": "place",
+      "origin": "место (mesto)"
+    },
+    {
+      "english": "mewler (or: mowler)",
+      "nadsat": "to mew",
+      "origin": ""
+    },
+    {
+      "english": "millicents",
+      "nadsat": "police",
+      "origin": "from милиционер (milicioner, literally \"a militsiya officer\") (милиция (milicija)), influenced by the given name Millicent. Cf militia"
+    },
+    {
+      "english": "minoota",
+      "nadsat": "minute",
+      "origin": "минута (minuta)"
+    },
+    {
+      "english": "molodoy",
+      "nadsat": "young",
+      "origin": "молодой (molodoj)"
+    },
+    {
+      "english": "moloko",
+      "nadsat": "milk",
+      "origin": "молоко (moloko)"
+    },
+    {
+      "english": "Moloko plus",
+      "nadsat": "milk laced with drugs",
+      "origin": "The drugs in question are drencrom (which possibly refers to adrenochrome), synthemesc (which possibly refers to synthetic mescaline, mescaline being extracted from peyote, a Mexican hallucinatory cactus used in rituals), or vellocet (-cet is a common ending for painkillers, and vello may refer to velocity). Burgess uses the concoction in A Clockwork Orange to make the protagonist Alex become increasingly violent near the beginning of the novel, although contrary to the film adaption the specific drug added to the milk is not named."
+    },
+    {
+      "english": "moodge",
+      "nadsat": "man",
+      "origin": "муж (muž, \"husband\"), archaic, high-flown \"man\""
+    },
+    {
+      "english": "morder",
+      "nadsat": "snout",
+      "origin": "морда (morda)"
+    },
+    {
+      "english": "mounch",
+      "nadsat": "snack",
+      "origin": "munch"
+    },
+    {
+      "english": "munchy-wunching",
+      "nadsat": "munching",
+      "origin": "Juvenile mutation of the word \"munching\""
+    },
+    {
+      "english": "mozg",
+      "nadsat": "brain",
+      "origin": "мозг (mozg)"
+    },
+    {
+      "english": "nachinat",
+      "nadsat": "to begin",
+      "origin": "начинать (načinatʹ)"
+    },
+    {
+      "english": "nadmenny",
+      "nadsat": "arrogant",
+      "origin": "надменный (nadmennyj)"
+    },
+    {
+      "english": "nadsat",
+      "nadsat": "teenage",
+      "origin": "from -надцать (-nadcatʹ, \"-teen\"), suffix; e.g., одиннадцать (odinnadcatʹ), двенадцать (dvenadcatʹ), тринадцать (trinadcatʹ), etc."
+    },
+    {
+      "english": "nagoy",
+      "nadsat": "naked",
+      "origin": "нагой (nagoj, \"nude\"), high-flown for \"naked\""
+    },
+    {
+      "english": "nazz",
+      "nadsat": "fool",
+      "origin": "назад (nazad, \"backward\")"
+    },
+    {
+      "english": "neezhnies",
+      "nadsat": "underpants",
+      "origin": "нижнее n (nižneje, \"lower\", adjective); нижнее бельё (nižneje belʹjó, \"underwear\")"
+    },
+    {
+      "english": "nochy",
+      "nadsat": "night/nocturnal",
+      "origin": "ночь (nočʹ) ночной (nočnoj)"
+    },
+    {
+      "english": "nogas",
+      "nadsat": "feet, legs (also used in reference to cars)",
+      "origin": "нога (noga)"
+    },
+    {
+      "english": "nozh",
+      "nadsat": "knife",
+      "origin": "нож (nož)"
+    },
+    {
+      "english": "nuking",
+      "nadsat": "smelling",
+      "origin": "нюхать (njuxatʹ, \"smell, sniff\")"
+    },
+    {
+      "english": "oddy knocky",
+      "nadsat": "on one's own",
+      "origin": "одинокий (odinokij, literally \"lonesome\")"
+    },
+    {
+      "english": "odin",
+      "nadsat": "one",
+      "origin": "один (odin)"
+    },
+    {
+      "english": "okno",
+      "nadsat": "window",
+      "origin": "окно (okno)"
+    },
+    {
+      "english": "oobivat",
+      "nadsat": "to kill",
+      "origin": "убивать (ubivatʹ)"
+    },
+    {
+      "english": "ookadeet",
+      "nadsat": "to leave",
+      "origin": "уходить (uxoditʹ)"
+    },
+    {
+      "english": "ooko",
+      "nadsat": "ear",
+      "origin": "ухо (uxo)"
+    },
+    {
+      "english": "oomny",
+      "nadsat": "brainy",
+      "origin": "умный (umnyj, \"clever\")"
+    },
+    {
+      "english": "oozhassny",
+      "nadsat": "terrible",
+      "origin": "ужасный (užasnyj)"
+    },
+    {
+      "english": "oozy",
+      "nadsat": "chain",
+      "origin": "узы (uzy, \"shackles\")"
+    },
+    {
+      "english": "orange",
+      "nadsat": "man, person",
+      "origin": "Malay orang (\"man\"), whence orang utan (literally \"forest man\"), orang-pendek"
+    },
+    {
+      "english": "osoosh",
+      "nadsat": "to wipe",
+      "origin": "осушать (osušatʹ, \"to dry\")"
+    },
+    {
+      "english": "otchkies",
+      "nadsat": "eyeglasses",
+      "origin": "очки (očki)"
+    },
+    {
+      "english": "pan-handle",
+      "nadsat": "erection",
+      "origin": ""
+    },
+    {
+      "english": "pee and em",
+      "nadsat": "father and mother",
+      "origin": "\"pa and ma\", \"pater and mater\""
+    },
+    {
+      "english": "peet",
+      "nadsat": "to drink",
+      "origin": "пить (pitʹ, \"pit\")"
+    },
+    {
+      "english": "pishcha",
+      "nadsat": "food",
+      "origin": "пища (pišča)"
+    },
+    {
+      "english": "platch",
+      "nadsat": "to cry",
+      "origin": "плач (plač, noun)"
+    },
+    {
+      "english": "platties",
+      "nadsat": "clothes",
+      "origin": "платье (platʹje)"
+    },
+    {
+      "english": "pletcho",
+      "nadsat": "shoulder",
+      "origin": "плечо (plečo)"
+    },
+    {
+      "english": "plenny",
+      "nadsat": "prisoner",
+      "origin": "пленный (plennyj, literally \"captive\")"
+    },
+    {
+      "english": "plesk",
+      "nadsat": "splash",
+      "origin": "плеск (plesk)"
+    },
+    {
+      "english": "plosh",
+      "nadsat": "to splash",
+      "origin": "onomatopoeia \"kerplosh\""
+    },
+    {
+      "english": "plott",
+      "nadsat": "body",
+      "origin": "плоть (plotʹ, \"flesh\")"
+    },
+    {
+      "english": "podooshka",
+      "nadsat": "pillow",
+      "origin": "подушка (poduška)"
+    },
+    {
+      "english": "poison",
+      "nadsat": "person",
+      "origin": "phonetic approximation of person in a Cockney accent"
+    },
+    {
+      "english": "pol",
+      "nadsat": "sex",
+      "origin": "пол (pol, \"gender\")"
+    },
+    {
+      "english": "polezny",
+      "nadsat": "useful",
+      "origin": "полезный (poleznyj)"
+    },
+    {
+      "english": "polly",
+      "nadsat": "in phrase \"pretty polly\" = money",
+      "origin": "rhyming slang for \"lolly\""
+    },
+    {
+      "english": "polyclef",
+      "nadsat": "skeleton key",
+      "origin": "French clef (\"key\"); Greek poly- (\"many\")"
+    },
+    {
+      "english": "pony",
+      "nadsat": "to understand",
+      "origin": "понимать (ponimatʹ, \"to understand\")"
+    },
+    {
+      "english": "poogly",
+      "nadsat": "frightened",
+      "origin": "испуганный (ispugannyj, \"frightened\"), пугливый (puglivyj, \"easily scared\")"
+    },
+    {
+      "english": "pooshka",
+      "nadsat": "gun",
+      "origin": "пушка (puška, literally \"cannon\"), slang \"gun\""
+    },
+    {
+      "english": "pop-disc",
+      "nadsat": "a record, pop album",
+      "origin": ""
+    },
+    {
+      "english": "prestoopnik",
+      "nadsat": "criminal",
+      "origin": "преступник (prestupnik)"
+    },
+    {
+      "english": "pretty polly",
+      "nadsat": "money",
+      "origin": "Rhyming slang for \"lolly\""
+    },
+    {
+      "english": "privodeet",
+      "nadsat": "to lead somewhere",
+      "origin": "приводить (privoditʹ)"
+    },
+    {
+      "english": "prod",
+      "nadsat": "to produce",
+      "origin": "produce, but cf продукция (produkcija)"
+    },
+    {
+      "english": "ptitsa",
+      "nadsat": "girl",
+      "origin": "птица (ptica, \"bird\"), cf. chick (bird is a common slang in Britain for a (young) woman, but is not used in Russian in this sense)"
+    },
+    {
+      "english": "punchipunching",
+      "nadsat": "punching",
+      "origin": "Juvenile mutation of \"punching\""
+    },
+    {
+      "english": "pyahnitsa",
+      "nadsat": "drunk",
+      "origin": "пьяница (pʹjanica)"
+    },
+    {
+      "english": "rabbit",
+      "nadsat": "work",
+      "origin": "работа (rabota)"
+    },
+    {
+      "english": "rabbiter",
+      "nadsat": "worker",
+      "origin": "работник (rabotnik)"
+    },
+    {
+      "english": "radosty",
+      "nadsat": "joy",
+      "origin": "радость (radostʹ, \"joy\")"
+    },
+    {
+      "english": "raskazz",
+      "nadsat": "story",
+      "origin": "рассказ (rasskaz)"
+    },
+    {
+      "english": "rassoodock",
+      "nadsat": "mind",
+      "origin": "рассудок (rassudok)"
+    },
+    {
+      "english": "raz",
+      "nadsat": "time",
+      "origin": "раз (raz, literally \"time\"), as in \"one time, two times\""
+    },
+    {
+      "english": "razdraz",
+      "nadsat": "annoy/annoyed",
+      "origin": "раздражать (razdražatʹ) раздраженный (razdražennyj)"
+    },
+    {
+      "english": "razrez",
+      "nadsat": "to rip, ripping",
+      "origin": "разрез (razrez, \"a cut\"), разрезать (razrezatʹ, \"to cut\") impf / pf"
+    },
+    {
+      "english": "rookerful",
+      "nadsat": "handful",
+      "origin": "рука (ruka, \"hand\")"
+    },
+    {
+      "english": "rook, rooker",
+      "nadsat": "arm, hand",
+      "origin": "руки pl (ruki)"
+    },
+    {
+      "english": "rot",
+      "nadsat": "mouth",
+      "origin": "рот (rot)"
+    },
+    {
+      "english": "rozz",
+      "nadsat": "policeman",
+      "origin": "rozzer (\"policeman\") (Cockney rhyming slang)"
+    },
+    {
+      "english": "sabog",
+      "nadsat": "shoe",
+      "origin": "сапог (sapog, \"boot\"), cf French sabot (\"shoe\")"
+    },
+    {
+      "english": "sakar",
+      "nadsat": "sugar",
+      "origin": "сахар (saxar), cf English saccharine"
+    },
+    {
+      "english": "sammy",
+      "nadsat": "generous",
+      "origin": "\"(Good) Samaritan\" (Bible Story); Russian \"samoye\", the most"
+    },
+    {
+      "english": "sarky",
+      "nadsat": "sarcastic",
+      "origin": "English slang, not exclusively nadsat."
+    },
+    {
+      "english": "scoteena",
+      "nadsat": "beast, cow",
+      "origin": "скотина (skotina, \"brute\")"
+    },
+    {
+      "english": "shaika",
+      "nadsat": "gang",
+      "origin": "шайка (šajka)"
+    },
+    {
+      "english": "sharp",
+      "nadsat": "female",
+      "origin": "Cockney rhyming slang \"sharp and blunt\""
+    },
+    {
+      "english": "sharries",
+      "nadsat": "buttocks",
+      "origin": "шары pl (šary, \"spheres, marbles\")"
+    },
+    {
+      "english": "shest",
+      "nadsat": "barrier",
+      "origin": "шест (šest, \"pole\")"
+    },
+    {
+      "english": "shilarny",
+      "nadsat": "concern",
+      "origin": "Possibly Irish, unknown lit. meaning"
+    },
+    {
+      "english": "shive",
+      "nadsat": "slice",
+      "origin": "Probably from shiv"
+    },
+    {
+      "english": "shiyah",
+      "nadsat": "neck",
+      "origin": "шея (šeja)"
+    },
+    {
+      "english": "shlem",
+      "nadsat": "helmet",
+      "origin": "шлем (šlem)"
+    },
+    {
+      "english": "shlaga",
+      "nadsat": "club, bat",
+      "origin": "German Schläger (\"club, bat\", literally \"hitter\")"
+    },
+    {
+      "english": "shlagnicked",
+      "nadsat": "clubbed",
+      "origin": "\"shlaga\" + -ник (-nik, \"Russian diminutive\")"
+    },
+    {
+      "english": "shlapa",
+      "nadsat": "hat",
+      "origin": "шляпа (šljapa)"
+    },
+    {
+      "english": "shoom",
+      "nadsat": "noise",
+      "origin": "шум (šum)"
+    },
+    {
+      "english": "shoot",
+      "nadsat": "fool",
+      "origin": "шут (šut, \"clown, jester\")"
+    },
+    {
+      "english": "shop-casting",
+      "nadsat": "",
+      "origin": ""
+    },
+    {
+      "english": "shvat",
+      "nadsat": "take",
+      "origin": "схватить (sxvatitʹ, \"grab\")"
+    },
+    {
+      "english": "silver-like",
+      "nadsat": "shiny",
+      "origin": ""
+    },
+    {
+      "english": "sinny",
+      "nadsat": "film, cinema, movie theater",
+      "origin": "mutated spelling of \"cine\""
+    },
+    {
+      "english": "skazat",
+      "nadsat": "to say",
+      "origin": "сказать (skazatʹ)"
+    },
+    {
+      "english": "skitebird",
+      "nadsat": "shithead",
+      "origin": ""
+    },
+    {
+      "english": "skolliwoll",
+      "nadsat": "school",
+      "origin": "Juvenile mutation of the word \"school\""
+    },
+    {
+      "english": "skorry",
+      "nadsat": "quick, quickly",
+      "origin": "скорый (skoryj)"
+    },
+    {
+      "english": "skriking",
+      "nadsat": "scratching",
+      "origin": "portmanteau of \"strike\" + \"scratch\""
+    },
+    {
+      "english": "skvat",
+      "nadsat": "to grab",
+      "origin": "схватить (sxvatitʹ)"
+    },
+    {
+      "english": "sladkvat",
+      "nadsat": "sweetest",
+      "origin": "сладкий (sladkij)"
+    },
+    {
+      "english": "sladky",
+      "nadsat": "sweet",
+      "origin": "сладкий (sladkij)"
+    },
+    {
+      "english": "sloochat",
+      "nadsat": "to happen",
+      "origin": "случаться (slučatʹsja)"
+    },
+    {
+      "english": "sloosh, slooshy",
+      "nadsat": "to hear, to listen",
+      "origin": "слушать (slušatʹ, \"listen\"), слышать (slyšatʹ, \"hear\")"
+    },
+    {
+      "english": "slovo",
+      "nadsat": "word",
+      "origin": "слово (slovo)"
+    },
+    {
+      "english": "smeck",
+      "nadsat": "laugh",
+      "origin": "смех (smex, \"laughter\")"
+    },
+    {
+      "english": "smot",
+      "nadsat": "to look",
+      "origin": "смотреть (smotretʹ)"
+    },
+    {
+      "english": "sneety",
+      "nadsat": "dream",
+      "origin": "сниться (snitʹsja, \"to be seen in a dream\")"
+    },
+    {
+      "english": "snoutie",
+      "nadsat": "tobacco",
+      "origin": "From snout, Engl. prison slang for \"tobacco\" or \"cigarette\""
+    },
+    {
+      "english": "snuff it",
+      "nadsat": "commit suicide",
+      "origin": "From the phrase used to put out a lit candle (to snuff it). Not exclusively nadsat."
+    },
+    {
+      "english": "sobirat",
+      "nadsat": "to pick up",
+      "origin": "собирать (sobiratʹ)"
+    },
+    {
+      "english": "sod",
+      "nadsat": "to fornicate/bugger, fornicator/bugger",
+      "origin": "Engl. slang; from sodomy, not exclusively nadsat."
+    },
+    {
+      "english": "soomka",
+      "nadsat": "old woman",
+      "origin": "сумка (sumka, \"bag\"), as in the English slang for old woman"
+    },
+    {
+      "english": "sooka",
+      "nadsat": "whore",
+      "origin": "сука (suka, literally \"bitch\"), as in the common slang for a whorish or unsavoury woman"
+    },
+    {
+      "english": "soviet",
+      "nadsat": "advice, order",
+      "origin": "совет (sovet, literally \"a piece of advice\")"
+    },
+    {
+      "english": "spat, spatchka",
+      "nadsat": "to sleep",
+      "origin": "спать (spatʹ)"
+    },
+    {
+      "english": "splodge, splosh",
+      "nadsat": "splash",
+      "origin": ""
+    },
+    {
+      "english": "spoogy",
+      "nadsat": "terrified",
+      "origin": "испуганный (ispugannyj)"
+    },
+    {
+      "english": "Staja",
+      "nadsat": "cell, State Jail",
+      "origin": "formed from the beginning of the words \"STAte JAil\"; cf German Stalag, English stalag. It is also the scholarly transliteration of стая (staja, literally \"flock\")."
+    },
+    {
+      "english": "Steaky Wake",
+      "nadsat": "Beef Steak",
+      "origin": "a childish pronunciation of the word steak."
+    },
+    {
+      "english": "starry",
+      "nadsat": "ancient, old",
+      "origin": "старый (staryj)"
+    },
+    {
+      "english": "strack",
+      "nadsat": "horror",
+      "origin": "страх (strax, \"fear\")"
+    },
+    {
+      "english": "stoolies",
+      "nadsat": "chairs",
+      "origin": "стул (stul)"
+    },
+    {
+      "english": "stripey hole",
+      "nadsat": "prison",
+      "origin": "From appearance of bars, or alternatively the striped uniforms once worn by prisoners."
+    },
+    {
+      "english": "synthemesc",
+      "nadsat": "drug",
+      "origin": "possibly \"synthetic mescaline\""
+    },
+    {
+      "english": "tally",
+      "nadsat": "waist",
+      "origin": "талия (talija)"
+    },
+    {
+      "english": "tashtook",
+      "nadsat": "handkerchief",
+      "origin": "from German Taschentuch (literally \"pocket-cloth\")"
+    },
+    {
+      "english": "tass",
+      "nadsat": "cup",
+      "origin": "from French tasse or German Tasse"
+    },
+    {
+      "english": "this nochy",
+      "nadsat": "tonight",
+      "origin": "ночь (nočʹ, \"night\")"
+    },
+    {
+      "english": "tick-tocker",
+      "nadsat": "heart",
+      "origin": "from the sound of a heartbeat, often \"ticker\" in English slang."
+    },
+    {
+      "english": "timps",
+      "nadsat": "drums",
+      "origin": "from English timpani"
+    },
+    {
+      "english": "tolchock",
+      "nadsat": "push, hit",
+      "origin": "толчок (tolčok)"
+    },
+    {
+      "english": "toofles",
+      "nadsat": "slippers",
+      "origin": "туфли (tufli, \"shoes\")"
+    },
+    {
+      "english": "tree",
+      "nadsat": "three",
+      "origin": "три (tri)"
+    },
+    {
+      "english": "vareet",
+      "nadsat": "to cook up",
+      "origin": "варить (varitʹ, literally \"to cook by boiling\")"
+    },
+    {
+      "english": "vaysay",
+      "nadsat": "washroom",
+      "origin": "from French pronunciation of w.-c. (\"water closet\")"
+    },
+    {
+      "english": "veck",
+      "nadsat": "person, man, fellow",
+      "origin": "человек (čelovek, \"person, man\")"
+    },
+    {
+      "english": "vehina",
+      "nadsat": "wine",
+      "origin": "вино (vino)"
+    },
+    {
+      "english": "vellocet",
+      "nadsat": "drug",
+      "origin": "Probably fabricated; '-cet' is a common ending of painkillers (e.g., percocet, ultracet). Possibly from speed (velocity), which is slang for the drug amphetamine or possibly suggested by the British motorcycle manufacturers Velocette."
+    },
+    {
+      "english": "venail",
+      "nadsat": "? (used as tolchocking and venailing)",
+      "origin": "Actually \"the Nailing In\" referring to the nailing of Christ as described in the Bible"
+    },
+    {
+      "english": "veshch",
+      "nadsat": "thing",
+      "origin": "вещь (veščʹ)"
+    },
+    {
+      "english": "viddy",
+      "nadsat": "see",
+      "origin": "видеть (videtʹ, \"to see\")"
+    },
+    {
+      "english": "vino",
+      "nadsat": "wine (also used as blood)",
+      "origin": "вино (vino)"
+    },
+    {
+      "english": "voloss",
+      "nadsat": "hair",
+      "origin": "волос (volos, \"a hair\"); волосы pl (volosy, \"hair\")"
+    },
+    {
+      "english": "von",
+      "nadsat": "smell",
+      "origin": "вонь (vonʹ, \"stench\")"
+    },
+    {
+      "english": "vred",
+      "nadsat": "to harm or damage",
+      "origin": "вред (vred, \"harm\")"
+    },
+    {
+      "english": "warbles",
+      "nadsat": "songs, recordings",
+      "origin": "From the English word warble (\"to sing\"). (As in the birds known as \"warblers\")"
+    },
+    {
+      "english": "worldcast",
+      "nadsat": "satellite TV or shortwave radio broadcast",
+      "origin": "Portmanteau of \"world\" and \"broadcast\""
+    },
+    {
+      "english": "yahma",
+      "nadsat": "hole",
+      "origin": "яма (jama)"
+    },
+    {
+      "english": "yahoodies",
+      "nadsat": "Jews",
+      "origin": "From Arabic يهود‎ pl (yahudi, \"Jews\"). Not exclusively nadsat"
+    },
+    {
+      "english": "yahzick",
+      "nadsat": "tongue",
+      "origin": "язык (jazyk)"
+    },
+    {
+      "english": "yarbles, yarblockos",
+      "nadsat": "testicles",
+      "origin": "яблоко (jabloko, \"apple\") (the Russian word doesn't have this meaning, see яйца (jajca, literally \"eggs\"))"
+    },
+    {
+      "english": "yeckate",
+      "nadsat": "to drive",
+      "origin": "ехать (jexatʹ, \"to go (by vehicle)\")"
+    },
+    {
+      "english": "zammechat",
+      "nadsat": "remarkable",
+      "origin": "замечательно (zamečatelʹno, \"remarkably, remarkable\")"
+    },
+    {
+      "english": "zasnoot",
+      "nadsat": "sleep",
+      "origin": "заснуть (zasnutʹ, \"to fall asleep\")"
+    },
+    {
+      "english": "zheena",
+      "nadsat": "wife",
+      "origin": "жена (žena)"
+    },
+    {
+      "english": "zoobies",
+      "nadsat": "teeth",
+      "origin": "зубы pl (zuby)"
+    },
+    {
+      "english": "zvonock",
+      "nadsat": "bellpull, doorbell",
+      "origin": "звонок (zvonok, \"doorbell\")"
+    },
+    {
+      "english": "zvook",
+      "nadsat": "sound",
+      "origin": "звук (zvuk)"
+    }
+  ]
+}
