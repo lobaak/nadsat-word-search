@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/nadsat-word-search/static/js/main.2483a5f3.chunk.js",
-    "main.js.map": "/nadsat-word-search/static/js/main.2483a5f3.chunk.js.map",
+    "main.js": "/nadsat-word-search/static/js/main.7759625d.chunk.js",
+    "main.js.map": "/nadsat-word-search/static/js/main.7759625d.chunk.js.map",
     "runtime-main.js": "/nadsat-word-search/static/js/runtime-main.6ee7daaa.js",
     "runtime-main.js.map": "/nadsat-word-search/static/js/runtime-main.6ee7daaa.js.map",
     "static/css/2.816b9c54.chunk.css": "/nadsat-word-search/static/css/2.816b9c54.chunk.css",
     "static/js/2.be7602cd.chunk.js": "/nadsat-word-search/static/js/2.be7602cd.chunk.js",
     "static/js/2.be7602cd.chunk.js.map": "/nadsat-word-search/static/js/2.be7602cd.chunk.js.map",
     "index.html": "/nadsat-word-search/index.html",
-    "precache-manifest.51d67a4eeb38011a305acbff842fbd89.js": "/nadsat-word-search/precache-manifest.51d67a4eeb38011a305acbff842fbd89.js",
+    "precache-manifest.be900b0b5d0d449ef2501ca875064df2.js": "/nadsat-word-search/precache-manifest.be900b0b5d0d449ef2501ca875064df2.js",
     "service-worker.js": "/nadsat-word-search/service-worker.js",
     "static/css/2.816b9c54.chunk.css.map": "/nadsat-word-search/static/css/2.816b9c54.chunk.css.map",
     "static/js/2.be7602cd.chunk.js.LICENSE.txt": "/nadsat-word-search/static/js/2.be7602cd.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.6ee7daaa.js",
     "static/css/2.816b9c54.chunk.css",
     "static/js/2.be7602cd.chunk.js",
-    "static/js/main.2483a5f3.chunk.js"
+    "static/js/main.7759625d.chunk.js"
   ]
 }

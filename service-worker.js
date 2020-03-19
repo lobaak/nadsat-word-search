@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nadsat-word-search/precache-manifest.51d67a4eeb38011a305acbff842fbd89.js"
+  "/nadsat-word-search/precache-manifest.be900b0b5d0d449ef2501ca875064df2.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d26316e29f99838a0c5280839734931",
+    "revision": "25195bda8bfd8d57096239936bef89be",
     "url": "/nadsat-word-search/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nadsat-word-search/static/js/2.be7602cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5d41a85b89b926e82bc",
-    "url": "/nadsat-word-search/static/js/main.2483a5f3.chunk.js"
+    "revision": "732430969748b7087276",
+    "url": "/nadsat-word-search/static/js/main.7759625d.chunk.js"
   },
   {
     "revision": "8e6f0b307fcffebc57ed",
